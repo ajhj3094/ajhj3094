@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajhj3094" alt="ajhj3094" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -15,3 +14,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajhj3094&show_icons=true&theme=dark&locale=en&layout=compact" alt="ajhj3094" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajhj3094&show_icons=true&locale=en" alt="ajhj3094" /></p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajhj3094&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajhj3094&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajhj3094&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajhj3094&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajhj3094&theme=dracula)
